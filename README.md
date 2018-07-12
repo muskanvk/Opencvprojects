@@ -17,13 +17,13 @@ C:\> python
 '3.4.0' # your version may be a newer one
 
 <b>This repository includes a variety of projects that are implemented in Python using opencv :</b>
-1. Facial Detection : Detects the face, eyes of a person.
+1. <b>Facial Detection</b> : Detects the face, eyes of a person.
 
-2. Background Subtraction : Background subtraction, also known as foreground detection, is a technique in the fields of image processing and computer vision wherein an image's foreground is extracted for further processing (object recognition etc.).
+2. <b>Background Subtraction</b> : Background subtraction, also known as foreground detection, is a technique in the fields of image processing and computer vision wherein an image's foreground is extracted for further processing (object recognition etc.).
 
-3. Iris Dection : Implementation to detect the iris on a static image.
+3. <b>Iris Dection</b> : Implementation to detect the iris on a static image.
 
-4. Motion Detection : Motion detection is the process of detecting a change in the position of an object relative to its surroundings or a change in the surroundings relative to an object. When motion detection is accomplished by natural organisms, it is called motion perception.
+4. <b>Motion Detection</b> : Motion detection is the process of detecting a change in the position of an object relative to its surroundings or a change in the surroundings relative to an object. When motion detection is accomplished by natural organisms, it is called motion perception.
 
-5. Feature Extraction : In machine learning, pattern recognition and in image processing, feature extraction starts from an initial set of measured data and builds derived values (features) intended to be informative and non-redundant, facilitating the subsequent learning and generalization steps, and in some cases leading to better human interpretations. Feature extraction is related to dimensionality reduction.
+5. <b>Feature Extraction</b> : In machine learning, pattern recognition and in image processing, feature extraction starts from an initial set of measured data and builds derived values (features) intended to be informative and non-redundant, facilitating the subsequent learning and generalization steps, and in some cases leading to better human interpretations. Feature extraction is related to dimensionality reduction.
 
